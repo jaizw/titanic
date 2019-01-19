@@ -5,7 +5,7 @@ https://www.kaggle.com/c/titanic
 
 
 ## model
- frame work: chainer
- network: scratch
- reference:
+ - frame work: chainer
+ - network: scratch
+ - reference:
  
